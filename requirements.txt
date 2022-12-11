@@ -1,0 +1,15 @@
+autopep8==2.0.0
+beautifulsoup4==4.9.3
+certifi==2022.12.7
+chardet==3.0.4
+furl==2.1.0
+idna==2.10
+orderedmultidict==1.0.1
+psutil==5.9.4
+psutil-wheels==5.8.0
+pycodestyle==2.10.0
+requests==2.24.0
+six==1.16.0
+soupsieve==2.3.2.post1
+tomli==2.0.1
+urllib3==1.25.11
