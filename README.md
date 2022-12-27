@@ -18,22 +18,22 @@ git clone https://github.com/dan-koller/Python-Web-Scraper
 2. Create a virtual environment\*
 
 ```bash
-python -m venv venv
+python3 -m venv venv
 ```
 
 3. Install the requirements\*
 
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 4. Run the script\*
 
 ```bash
-python scraper.py
+python3 scraper.py
 ```
 
-_\*) If you are using a virtual environment, you might need to replace `pip` with `pip3` and `python` with `python3`._
+_\*) You might need to use `python` and `pip` instead of `python3` and `pip3` depending on your system._
 
 ## Usage
 
